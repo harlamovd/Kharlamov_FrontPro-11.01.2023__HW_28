@@ -1,0 +1,56 @@
+.wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 40px;
+
+}
+.div_spirit {
+    opacity: 0;
+    width: 250px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 30px;
+    color: yellow;
+    background: blue;
+}
+.inputOne {
+    border-radius: 20px;
+    height: 30px;
+    font-size: 30px;
+    background: yellow;
+    text-align: center;
+}
+#inputTwo {
+    border-radius: 20px;
+    height: 30px;
+    font-size: 30px;
+    background: yellow;
+    text-align: center;
+}
+#inputThree {
+    border-radius: 20px;
+    height: 30px;
+    font-size: 30px;
+    background: yellow;
+    text-align: center;
+}
+#div_spirit_two {
+    width: 250px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 30px;
+    color: yellow;
+    background: blue;
+}
+#div_spirit_three {
+    width: 250px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 30px;
+    color: yellow;
+    background: blue;
+}
